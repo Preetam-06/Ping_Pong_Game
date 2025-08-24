@@ -53,7 +53,9 @@ Ping_Pong_Game/
 ├── assets/              # Screenshots
 │   ├── ping01.png
 │   ├── ping02.png
-└── README.md
+│── README.md
+└── requirements.txt
+
 ```
 
 ---
